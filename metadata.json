@@ -1,0 +1,7 @@
+{
+  "name": "LifeSync AI",
+  "description": "A smart reminder application for food, gym, and daily tasks with AI-powered natural language scheduling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
